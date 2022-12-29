@@ -1,0 +1,27 @@
+//TABEL/FORM : MEMPELAI
+Nama Mempelai Pria
+Gambar Pria
+Nama Orang Tua Laki-Laki
+Nama Orang Tua Perempuan
+Anak Ke
+
+Nama Mempelai Pria
+Gambar Wanita
+Nama Orang Tua Laki-Laki
+Nama Orang Tua Perempuan
+Anak Ke
+
+
+//TABEL/FORM : ACARA
+Tanggal akad
+Jam Akad
+Tempat Akad
+Jam Resepsi
+Tempat Resepsi
+Link Map
+
+
+//TABEL NOREK
+NAMA BANK
+NO REKENING
+ATAS NAMA
